@@ -6,7 +6,7 @@ from datetime import datetime
 
 # ======================== CONFIGURATION ========================
 # 🔑 PASTE YOUR GROQ API KEY HERE (get it from console.groq.com)
-GROQ_API_KEY = "gsk_YOUR_API_KEY_HERE"   # <-- REPLACE WITH YOUR REAL KEY
+GROQ_API_KEY = "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""   # <-- REPLACE WITH YOUR REAL KEY
 
 # If you prefer environment variable (safer), use:
 # GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "gsk_...")
